@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.bin
+*.pt
+*.pth
+.cache/
+.huggingface/
